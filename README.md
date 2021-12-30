@@ -20,7 +20,7 @@ By the way, click the table cell of your SQL query results, the GUI designed by 
     <img src="matlab_SQL2.png" width = "40%" align = "left">   
   </div>  
 </div>
-  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <div class="column">
     <img src="matlab_sql3.png" align = "left">   
   </div>
